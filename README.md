@@ -1,4 +1,4 @@
-# flutter_application_1
+# Tugas Pokedex
 
 A new Flutter project.
 
